@@ -1,0 +1,3 @@
+# OpenCVIntro
+
+Starting with OpenCV
